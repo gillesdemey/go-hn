@@ -3,4 +3,4 @@ go-hn
 
 Hacker News CLI written in Go
 
-![https://www.dropbox.com/s/kdrj8jkiiejzzjv/Screenshot%202014-08-02%2014.51.32.png](https://www.dropbox.com/s/kdrj8jkiiejzzjv/Screenshot%202014-08-02%2014.51.32.png)
+![http://cl.ly/image/001S2M2M0z2h/0FklqYuK9F2iTVjih3tyEKIY_nmshZE7bVS6OiCSEVk.png](http://cl.ly/image/001S2M2M0z2h/0FklqYuK9F2iTVjih3tyEKIY_nmshZE7bVS6OiCSEVk.png)
